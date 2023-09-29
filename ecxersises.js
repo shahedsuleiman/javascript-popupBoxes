@@ -34,7 +34,7 @@ var c = Math.ceil(2.3) - Math.floor(4.7);// -1
 // Q3
 // var num1 = window.prompt("Enter num 1");
 // var num2 = window.prompt("Enter num 2");
-// if (num1<num2) {
+// if (parseInt(num1)<parseInt(num2)) {
 //     window.alert(num1 + " " + num2);
 // } else {
 //     window.alert(num2 + " " + num1);
