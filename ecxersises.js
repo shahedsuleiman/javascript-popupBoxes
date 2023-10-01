@@ -92,3 +92,62 @@ var c = Math.ceil(2.3) - Math.floor(4.7);// -1
 //     default:
 //         window.alert("PLEASE TRY AGAIN");
 // }
+
+// Q7
+// for (let i =0;i<=5;i++){
+//    window.alert(i+" ");
+// }
+
+//Q8
+// var result="";
+// for (let i =0;i<=5;i++){
+//    result = result + " "+ i;
+// }
+// window.alert(result);
+
+//Q9
+// var result="";
+// for (let i =0;i<=20;i++){
+//    if(i%3==0){
+//       result = result+ " " + i ;
+//    }
+// }
+// window.alert(result);
+
+//Q10
+// var num = window.prompt("Enter a number ");
+// for (let i = 0;i<100 ;i++){
+//    if(num >100 || n<0) {
+//       alert("wrong number ,try again");
+//       num = window.prompt("Enter a number");
+//    }
+// }
+
+//Q11
+// var num = window.prompt("Enter a number ");
+// for (let i = 0;i<=100 ;i++){
+//    if(num >100 || num<0 || isNaN(num)) {
+//       alert(" out of range or not a number");
+//       num = window.prompt("try again");
+
+//    }
+// }
+
+// Q12
+// var n = prompt("enter a number");
+// var sum = 0 ;
+// for(let i=0; i<=n ; i++){
+//    sum += i;
+// }
+// alert(sum);
+
+//Q13
+// var n = prompt("enter a number");
+// var sum = 0 ;
+// var avg;
+// for(let i=0; i<=n ; i++){
+//    sum += i;
+   
+// }
+// avg = sum/n;
+// alert(avg);
